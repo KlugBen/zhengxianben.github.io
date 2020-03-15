@@ -1,7 +1,7 @@
 # Site settings
 title: Ben Blog
 SEOTitle: 郑贤奔的博客 | Ben Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-desk.JPG
 email: michael1567@163.com
 description: "自律给我自由，创作使我快乐。"
 keyword: "Ben, Ben Blog, 郑贤奔的博客, zhengxianben, 郑贤奔, 自律, 创作, 马拉松"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/KlugBen/zhengxianben.github.io.git" # you code 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-Ben-gentle.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-Ben-gentle.JPEG     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+# ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
